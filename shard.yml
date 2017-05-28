@@ -1,0 +1,20 @@
+name: figures
+version: 0.1.0
+
+authors:
+  - AChurakov <fl.churakov@gmail.com>
+
+targets:
+  figures:
+    main: src/figures.cr
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+    branch: master
+  uuid:
+    github: raydf/crystal-uuid
+
+crystal: 0.21.1
+
+license: MIT

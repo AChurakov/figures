@@ -1,0 +1,18 @@
+version: 1.0
+shards:
+  kemal:
+    github: kemalcr/kemal
+    commit: 0724e07c22513790fbeefeca3bf8e1a8407d44b2
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.3.3
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.8
+
+  uuid:
+    github: raydf/crystal-uuid
+    commit: 1ee077db452e60607baab62f75b4e275e18b483c
+
